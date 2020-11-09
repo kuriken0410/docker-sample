@@ -1,2 +1,2 @@
 # docker-sample
-docker利用の練習アプリです。
+dockerを使うための試用アプリです。
