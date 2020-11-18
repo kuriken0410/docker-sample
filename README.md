@@ -1,6 +1,6 @@
 <h1 align="center">Todoリストマネージャーアプリ</h1>
 
-![キャプチャ動画](https://i.gyazo.com/16869abb8973e20db746da77cf1268e4.gif)
+![キャプチャ動画](https://i.gyazo.com/15b132aa2c0bb532e7ad7fcb06602b64.gif)
 
 ## :globe_with_meridians: Todoリストマネージャーアプリとは
 - Dockerに乗せているアプリケーションです。
