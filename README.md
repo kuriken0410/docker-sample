@@ -1,8 +1,8 @@
-<h1 align="center">Todoリストマネージャーアプリ</h1>
+<h1 align="center">Todoリストマネージャーアプリケーション</h1>
 
 ![キャプチャ動画](https://i.gyazo.com/15b132aa2c0bb532e7ad7fcb06602b64.gif)
 
-## :globe_with_meridians: Todoリストマネージャーアプリとは
+## :globe_with_meridians: Todoリストマネージャーアプリケーションとは
 - Dockerに乗せているアプリケーションです。
 - 実施したいことを登録することで、登録したタスクをリスト管理できます。
 
