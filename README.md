@@ -10,5 +10,4 @@
 - 実施したいタスクの登録機能。
 - 登録したタスクの削除機能。
 
-## :globe_with_meridians: 使用した技術、言語、ツールなど
-<a><img src="https://user-images.githubusercontent.com/63842526/93454266-b5538300-f915-11ea-8439-cd65c7a959f2.png" height="100px;" /></a> <!-- Dockerのロゴ -->
+<a><img src="https://user-images.githubusercontent.com/63842526/93454266-b5538300-f915-11ea-8439-cd65c7a959f2.png" height="80px;" /></a> <!-- Dockerのロゴ -->
